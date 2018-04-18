@@ -1,7 +1,7 @@
 # WP CMB2 conditional logic
 A lightweight WordPress plugin for adding conditional logic fields to CMB2 plugin.
 
-#### For adding conditional fields, add a new `attributes` parameters: 
+#### For adding conditional fields, add a new `attributes` parameter: 
 1. `data-conditional-id` which should match the conditional feild ID.
 2. `data-conditional-value` which should match the conditional value.
 
