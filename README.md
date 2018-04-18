@@ -34,7 +34,7 @@ A lightweight WordPress plugin for adding conditional logic fields to CMB2 plugi
         ),
     ) );
 ```
-- You can add more than 1 value to the `data-conditional-value` using `wp_json_encode( array( 'value 1', 'value 2' ) )` like so:
+#### You can add more than 1 value to the `data-conditional-value` using ```php wp_json_encode( array( 'value 1', 'value 2' ) ) ``` like so:
 
 ```php
         'attributes'    => array(
